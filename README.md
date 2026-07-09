@@ -16,7 +16,7 @@ With over **20 years of experience** in technology provisioning and infrastructu
 
 I lead **Tech Station Enterprise**, where we empower SMEs and organizations through streamlined digital infrastructure and custom software delivery.
 *   **Website:** [www.rydetechglobal.com](https://www.rydetechglobal.com)
-*   **Contact:** +010 769 7120 | [rydetechwizsolutions@proton.me](mailto:rydetechwizsolutions@proton.me)
+*   **Contact:** [rydetechwizsolutions@proton.me](mailto:rydetechwizsolutions@proton.me)
 
 ## 💡 Projects & Collaborative Focus
 I am actively seeking collaborations on:
@@ -27,7 +27,7 @@ I am actively seeking collaborations on:
 ---
 ### 🌐 Connect With Me
 *   **Email:** [kugan.aj@gmail.com](mailto:kugan.aj@gmail.com)
-*   **LinkedIn:** [hit me up](https://www.linkedin.com/in/kugan-ausuvalingam-63b76784/)]
+*   **LinkedIn:** [[hit me up](https://www.linkedin.com/in/kugan-ausuvalingam-63b76784/)]
 
 ---
 *Building the future of autonomous enterprise solutions.*

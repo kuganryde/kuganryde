@@ -37,7 +37,4 @@ With over **20 years of experience** in technology provisioning and infrastructu
 
 <img src="https://i.ibb.co/HpPxjjK9/image.png" alt="image" border="0">
 
-### 📊 GitHub Stats
-![Kugan's Stats](https://github-readme-stats.vercel.app/api?username=kuganryde&show_icons=true&theme=radical)
-
 </div>

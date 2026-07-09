@@ -3,7 +3,7 @@
 # Kugan Ausuvalingam
 ### Enterprise Architect | ICT Manager | Founder @ RYDETECH GLOBAL ENTERPRISE
 
-![Banner Placeholder: Insert your custom RYDETECH branding image here]([https://via.placeholder.com/1000x200/000000/ffffff?text=RYDETECH+GLOBAL+ENTERPRISE](https://i.ibb.co/q34hPbY9/Logo-RY.png))
+<img src="https://i.ibb.co/q34hPbY9/Logo-RY.png" alt="Logo RY" border="0">
 
 ---
 
@@ -34,7 +34,6 @@ With over **20 years of experience** in technology provisioning and infrastructu
 **Contact Details:**
 * 🌐 **Website:** [www.rydetechglobal.com](https://www.rydetechglobal.com)
 * 📧 **Email:** [rydetechwizsolutions@proton.me](mailto:rydetechwizsolutions@proton.me)
-* 📱 **Phone:** +010 769 7120
 
 ---
 

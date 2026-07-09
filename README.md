@@ -27,7 +27,7 @@ I am actively seeking collaborations on:
 ---
 ### 🌐 Connect With Me
 *   **Email:** [kugan.aj@gmail.com](mailto:kugan.aj@gmail.com)
-*   **LinkedIn:** [[Link to your profile](https://www.linkedin.com/in/kugan-ausuvalingam-63b76784/)]
+*   **LinkedIn:** [hit me up](https://www.linkedin.com/in/kugan-ausuvalingam-63b76784/)]
 
 ---
 *Building the future of autonomous enterprise solutions.*

@@ -32,7 +32,7 @@ With over **20 years of experience** in technology provisioning and infrastructu
 | **Infrastructure** | Enterprise Architecture & On-Premise AI Foundations |
 
 **Contact Details:**
-* 🌐 **Website:** [www.rydetechglobal.com](https://www.rydetechglobal.com)
+* 🌐 **Website:** [www.rydetechglobal.com](https://rydetechglobal.com)
 * 📧 **Email:** [rydetechwizsolutions@proton.me](mailto:rydetechwizsolutions@proton.me)
 
 ---

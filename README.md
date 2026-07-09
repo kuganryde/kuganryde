@@ -35,7 +35,7 @@ With over **20 years of experience** in technology provisioning and infrastructu
 * 🌐 **Website:** [www.rydetechglobal.com](https://rydetechglobal.com)
 * 📧 **Email:** [rydetechwizsolutions@proton.me](mailto:rydetechwizsolutions@proton.me)
 
----
+<img src="https://i.ibb.co/qFCjwh2R/Hero-Banner.png" alt="Hero Banner" border="0">
 
 ### 📊 GitHub Stats
 ![Kugan's Stats](https://github-readme-stats.vercel.app/api?username=kuganryde&show_icons=true&theme=radical)

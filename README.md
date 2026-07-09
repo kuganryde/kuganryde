@@ -1,5 +1,5 @@
 # Hello, I'm Kugan Ausuvalingam
-### Enterprise Architect | ICT Manager | Founder @ Tech Station Enterprise
+### Enterprise Architect | ICT Manager | Founder @ RYDETECH GLOBAL ENTERPRISE
 
 ---
 
